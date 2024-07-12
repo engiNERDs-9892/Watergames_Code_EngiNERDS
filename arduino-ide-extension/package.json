@@ -179,7 +179,7 @@
       "version": {
         "owner": "arduino",
         "repo": "arduino-language-server",
-        "commitish": "91c2ba8"
+        "commitish": "c1dbee2"
       }
     },
     "clangd": {
